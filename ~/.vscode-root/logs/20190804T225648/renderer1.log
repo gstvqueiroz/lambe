@@ -1,0 +1,4 @@
+[2019-08-04 22:56:59.915] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/gustavo/react-native/lambe/.vscode'
+[2019-08-04 22:56:59.916] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/gustavo/react-native/lambe/.vscode'
+[2019-08-04 22:57:04.712] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-04 22:57:04.727] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)

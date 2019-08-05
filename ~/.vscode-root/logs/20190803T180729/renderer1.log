@@ -1,0 +1,5 @@
+[2019-08-03 18:07:58.956] [renderer1] [warning] Workbench did not finish loading in 10 seconds, that might be a problem that should be reported.
+[2019-08-03 18:08:02.145] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/gustavo/react-native/lambe/.vscode'
+[2019-08-03 18:08:02.145] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/gustavo/react-native/lambe/.vscode'
+[2019-08-03 19:33:29.873] [renderer1] [error] Error: [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
+[2019-08-03 19:33:29.999] [renderer1] [error] [File Watcher (chockidar)] Inotify limit reached (ENOSPC)
